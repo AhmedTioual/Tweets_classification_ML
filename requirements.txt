@@ -1,0 +1,9 @@
+brotli
+pymongo[srv]
+pymongo
+pandas
+nltk
+spacy
+demoji
+tashaphyne
+requests
